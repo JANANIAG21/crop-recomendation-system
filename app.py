@@ -52,6 +52,12 @@ with st.sidebar:
     load_bootstrap()
     st.markdown("""<h4 style='text-align: center; color: black;'>
     This Application was help you to choose a crop for your field. 
+        You can find my Linkedin and GitHub profiles below:</h4>""",unsafe_allow_html=True)
+    st.markdown(f"""<h4 style='text-align: center; color: black;'>
+     <a style='text-align: center; color: black;' type="button" class="btn btn-warning btn-lg" 
+     href = "https://github.com/MPrevelato/Crop_Recommendation_System">GitHub</a> <a style='text-align: center; color: black;' 
+     type="button" class="btn btn-warning btn-lg" 
+     href = "https://www.linkedin.com/in/mateus-prevelato/">Linkedin</a></h4>""", unsafe_allow_html=True
 
 
 st.markdown("<h1 style='text-align: center; color: black;'>Crop Recommendation System</h1>", unsafe_allow_html=True)
