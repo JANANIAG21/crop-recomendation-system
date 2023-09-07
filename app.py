@@ -52,7 +52,7 @@ with st.sidebar:
     load_bootstrap()
     st.markdown("""<h4 style='text-align: center; color: black;'>
     This Application was help you to choose a crop for your field. 
-        You can find my Linkedin and GitHub profiles below:</h4>""",unsafe_allow_html=True)
+    You can find my Linkedin and GitHub profiles below:</h4>""",unsafe_allow_html=True)
     st.markdown(f"""<h4 style='text-align: center; color: black;'>
      <a style='text-align: center; color: black;' type="button" class="btn btn-warning btn-lg" 
      href = "https://github.com/MPrevelato/Crop_Recommendation_System">GitHub</a> <a style='text-align: center; color: black;' 
@@ -68,7 +68,7 @@ with coly:
     st.markdown("""
   
     
-      <h6 style='text-align: center;'>
+       <h6 style='text-align: center;'>
         This Application is a Random Forest model that give 
         recommendations to farmers based on an Indian Crop 
         Recommendation <a style='text-align: center; color: blue;' 
