@@ -14,7 +14,7 @@ import joblib
 
 pd.options.display.max_colwidth = 2000
 st.set_page_config(
-    page_title="Crop Recommendation System",
+    page_title="WEB APPLICATION FOR CROP SUGGESTION",
     layout="wide",
     initial_sidebar_state="expanded",
 )
