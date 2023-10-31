@@ -22,7 +22,7 @@ st.set_page_config(
 page_bg = f"""
 <style>
 [data-testid="stAppViewContainer"] {{
-background-color:#ffc107;
+background-color:#00ff00;
 
 }}
 [data-testid="stSidebar"] {{
