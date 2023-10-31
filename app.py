@@ -59,7 +59,7 @@ with st.sidebar:
      type="button" class="btn btn-warning btn-lg" 
      href = "https://www.linkedin.com/in/janani-dhanabalan-8a8560233/">Linkedin</a></h4>""", unsafe_allow_html=True)
 
-st.markdown("<h1 style='text-align: center; color: black;'>Crop Recommendation System</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center; color: black;'>WEB APPLICATION FOR CROP SUGGESTION</h1>", unsafe_allow_html=True)
 st.markdown("<h5 style='text-align: center;'>This Application predict what is the best crop to plant based on NPK values and Weather Conditions!</h5>", unsafe_allow_html= True)
 
 colx, coly, colz = st.columns([1,4,1], gap = 'medium')
